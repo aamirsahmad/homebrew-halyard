@@ -1,6 +1,6 @@
 cask "halyard" do
-  version "0.1.0"
-  sha256 "f95b610fed574701b3c412a8207bd9e7fa55b810ccdf1446701773ea6a8728c9"
+  version "0.2.0"
+  sha256 "4ab09f8c9df2340d355d04ca134a8b050457e7782c9d19851351a740d3bc8217"
 
   url "https://github.com/aamirsahmad/halyard/releases/download/v#{version}/Halyard-#{version}-macos-universal.zip"
   name "Halyard"
